@@ -1,6 +1,11 @@
-# Catalogo de Jogos arquitetura com .NET
+# Catalogo de Jogos arquitetura com .NET - Construir uma arquitetura base para uma aplicação .net do zero.
 
-Construir uma arquitetura base para uma aplicação .net do zero.
+Projeto feito seguindo o tutorial da Digital Innovation One
+
+ESPECIALISTA: Thiago Campos de Oliveira (Desenvolvedor .Net, Banco Safra S.A.)
+
+
+Como uso o sistema operacional Linux Mint, para fazer o projeto seguir o roteiro abaixo:
 
 Para instalar o Microsoft .NET Core SDK no Ubuntu e ainda poder receber automaticamente as futuras atualizações dele, você deve fazer o seguinte:
 
